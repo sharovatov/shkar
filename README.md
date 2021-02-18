@@ -43,7 +43,7 @@
 
 1. [Ценностное предложение кандидатам](https://github.com/sharovatov/shkar/blob/master/1-mentees-evp.md)
 2. [Источники кандидатов](https://github.com/sharovatov/shkar/blob/master/2-mentees-sources.md)
-3. [Фильтрация кандидатов](https://github.com/sharovatov/shkar/blob/master/3-mentees-filtering.md)
+3. [Интервью кандидатов в стажеры](https://github.com/sharovatov/shkar/blob/master/3-mentees-interview.md)
 4. [Преподавательский состав](https://github.com/sharovatov/shkar/blob/master/4-mentors-sources.md)
 5. [Интервью кандидатов в преподаватели](https://github.com/sharovatov/shkar/blob/master/5-mentors-interview.md)
 6. [Программа обучения и методика преподавания](https://github.com/sharovatov/shkar/blob/master/6-methodology.md)
