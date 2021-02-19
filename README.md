@@ -6,12 +6,18 @@
 
 [Telegram-канал](https://t.me/shkar_amtech)
 
-## TLDR; что мы делаем
+## TL;DR: что мы делаем
 - берем стажёра со знанием Java, но без опыта еще
 - платим 30 000 рублей стипендии
 - учим 2 месяца фултайм в офисе
 - если учится хорошо — нанимаем с зп до 100 000 руб на руки (белыми)
 Подробнее [тут](https://github.com/sharovatov/shkar/blob/master/1-mentees-evp.md)
+
+## Я стажер и хочу к вам
+
+**Подача заявок стартует 24 Февраля**
+
+[Как подать заявку](https://github.com/sharovatov/shkar/blob/master/10-apply.md)
 
 ## Что в этом для нас
 
@@ -50,4 +56,4 @@
 7. [Правила обучения](https://github.com/sharovatov/shkar/blob/master/7-code-of-conduct.md)
 8. [Обеспечение процесса](https://github.com/sharovatov/shkar/blob/master/8-admin.md)
 9. [Ссылки](https://github.com/sharovatov/shkar/blob/master/9-references.md)
-
+10. [Как подать заявку](https://github.com/sharovatov/shkar/blob/master/apply.md)
