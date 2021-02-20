@@ -5,3 +5,4 @@
 - [Российские трудовые ценности — 1998, В.С. Магун](https://www.civisbook.ru/files/File/Magun-statya-MirRoss-98.pdf)
 - [Как меняются российские трудовые ценности — 2007, В.С. Магун](https://polit.ru/article/2007/09/25/rusvalues/)
 - [Исследования ценностей — 2016, Н.А. Головин, В.А. Сибирев](http://www.jourssa.ru/sites/all/files/volumes/2016_3/Golovin_Sibirev_2016_3.pdf)
+- [Дмитрий Волошин о профориентации](https://www.ucheba.ru/article/1501)
