@@ -21,3 +21,5 @@
 
 
 ## Список стажеров в пилотную версию
+
+Анастасия, [VValkyrie](https://github.com/VValkyrie), @a_v_pavlova
