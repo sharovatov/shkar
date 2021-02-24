@@ -23,3 +23,4 @@
 ## Список стажеров в пилотную версию
 
 Анастасия, [VValkyrie](https://github.com/VValkyrie), @a_v_pavlova
+Юсуф, [SoftwareEngineerNN](https://github.com/SoftwareEngineerNN), @deadpool_nn
